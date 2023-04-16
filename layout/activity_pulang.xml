@@ -7,7 +7,7 @@
     android:background="@color/biru_langit"
     tools:context=".Pulang">
         <TextView
-            android:id="@+id/title"
+            android:id="@+id/pulang"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
